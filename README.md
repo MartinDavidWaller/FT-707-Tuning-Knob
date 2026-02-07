@@ -24,7 +24,7 @@ weights. In this case old lead weights from piano keys but fishing weights, or s
 would be fine too. The lead is encased in epoxy resin. There is also a recess for a grub 
 screw to secure the knob to an encoder shaft. 
 
-<img src="Pictures/IMG_1452.jpg?sanitize=true&raw=true" />
-<img src="Pictures/IMG_1448.jpg?sanitize=true&raw=true" />
+<img src="Pictures/IMG_1452.JPG?sanitize=true&raw=true" />
+<img src="Pictures/IMG_1448.JPG?sanitize=true&raw=true" />
 
 
