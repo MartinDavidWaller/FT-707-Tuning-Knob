@@ -5,7 +5,11 @@ Sadly, it was well out of my price range.
 
 What was the draw? 
 
-Oddly it was the tuning knob. The tuning was smooth as silk and a dream. It was all down to the design 
+Oddly it was the tuning knob. 
+
+<img src="Pictures/s-l1600.jpg?sanitize=true&raw=true" />
+
+The tuning was smooth as silk and a dream. It was all down to the design 
 of the knob. It was easy to grip. The indentations around the edge are there to ensure a firm hold. 
 The dimple is there to ease fine tuning. It was weighted; it had momentum. You could spin it and 
 tune from one end of the band to the other in one go.
@@ -19,4 +23,8 @@ as close as I can get to the original and in the rear of the knob there is space
 weights. In this case old lead weights from piano keys but fishing weights, or similar, 
 would be fine too. The lead is encased in epoxy resin. There is also a recess for a grub 
 screw to secure the knob to an encoder shaft. 
+
+<img src="Pictures/IMG_1452.jpg?sanitize=true&raw=true" />
+<img src="Pictures/IMG_1448.jpg?sanitize=true&raw=true" />
+
 
