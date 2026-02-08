@@ -2,6 +2,9 @@
 
 THE STL AND ASSOCIATED DESIGN PUBLISHED HERE MAY NOT BE USED FOR COMMERCIAL PURPOSES.
 
+Note: Since publishing this design, I’ve found a few people on eBay selling them. 
+If you’re interested in having one then I’m more than happy to print one for you at cost.
+
 When I first discovered Amateur Radio, I craved to have a Yaesu HS SSB Transceiver FT-707. 
 Sadly, it was well out of my price range. 
 
