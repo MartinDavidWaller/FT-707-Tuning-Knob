@@ -1,5 +1,7 @@
 # The Yaesu FT-707 Tuning Knob
 
+THE STL AMD ASSOCIATED DESIGN PUBLISHED HERE MAY NOT BE USED FOR COMMERCIAL PURPOSES.
+
 When I first discovered Amateur Radio, I craved to have a Yaesu HS SSB Transceiver FT-707. 
 Sadly, it was well out of my price range. 
 
